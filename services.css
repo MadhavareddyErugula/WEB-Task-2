@@ -1,0 +1,29 @@
+body {
+            font-family: "Lucida Console", "Courier New", monospace;
+            margin: 0;
+            padding: 0;
+            background-color:Beige;
+			overflow: hidden;        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: Beige;
+			opacity:o.6;
+            margin-bottom: 20px;
+			overflow: hidden;        }
+
+        td {
+            padding: 15px;
+            text-align: center;
+			overflow: hidden;        }
+
+        a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+			overflow: hidden;        }
+
+        a:hover {
+            color:white;
+        }

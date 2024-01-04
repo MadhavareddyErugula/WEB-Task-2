@@ -1,0 +1,29 @@
+body {
+            font-family: calibri;
+            margin: 0;
+            padding: 0;
+            background-color:black;
+			overflow: hidden;        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: plum;
+			opacity:o.6;
+            margin-bottom: 20px;
+			overflow: hidden;        }
+
+        td {
+            padding: 15px;
+            text-align: center;
+			overflow: hidden;        }
+
+        a {
+            text-decoration: none;
+            color: navy;
+            font-weight: bold;
+			overflow: hidden;        }
+
+        a:hover {
+            color:white;
+        }
